@@ -16,7 +16,6 @@ Check out my latest work:
 - Actively building automated workflows and data science projects to bridge the gap between financial theory and technical application.
 
 ### 📫 How to reach me
-- **LinkedIn:** [Insert your LinkedIn profile link here]
 - **GitHub:** @ArturoPerez510
 
 ---
