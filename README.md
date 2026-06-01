@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ArturoPerez510/ArturoPerez510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arturo Manuel Perez, a professional financial assistant and an aspiring Finance Data Analyst. I am currently transitioning my technical skillset into the world of data science and financial modeling.
 
-Here are some ideas to get you started:
+### 🛠 Technical Skills
+- **Languages:** Python, SQL
+- **Tools:** GitHub, Git, Pandas, Matplotlib, VS Code
+- **Domain Focus:** Financial Analysis, Data Pipeline Automation, Accounting Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Projects
+Check out my latest work:
+- **[Financial Data Analysis Pipeline](https://github.com/ArturoPerez510/financial-analysis-project):** An automated Python pipeline for ingestion, processing, and visual reporting of financial datasets.
+
+### 🎓 Learning Path
+- Currently pursuing a Bachelor’s degree in Accounting at Western Governors University (WGU).
+- Actively building automated workflows and data science projects to bridge the gap between financial theory and technical application.
+
+### 📫 How to reach me
+- **LinkedIn:** [Insert your LinkedIn profile link here]
+- **GitHub:** @ArturoPerez510
+
+---
+*Building at the intersection of Finance and Data.*
